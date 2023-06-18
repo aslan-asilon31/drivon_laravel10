@@ -1,0 +1,61 @@
+======== referensi 
+https://www.cakrarentcar.com/
+
+https://sewa-motor-tegal.business.site/?gclid=CjwKCAjwhJukBhBPEiwAniIcNYsthiBmHwJj7dMHddSQOmMZRH4hQHRd9F1sgwzaB6C892bqB9UkIRoCgHMQAvD_BwE
+
+
+
+
+============== laravel task scheduling
+
+https://santrikoding.com/tutorial-schedule-laravel-9
+
+https://santrikoding.com/tutorial-kirim-email-di-laravel-dengan-queue
+
+https://santrikoding.com/tips-mengatasi-error-mengirim-email-menggunakan-smtp-gmail-di-laravel
+
+
+
+===================== menambahkan tunnel di laragon
+------ pada new tab terminal laragon
+php -S localhost:7000 -t github31/drivon_laravel10/public
+
+---------selanjutkan new tab terminal laragon
+ngrok http localhost:7000
+
+
+============ payment gateway with midtrans
+https://jurnalmms.web.id/laravel/integrasi-midtrans-dan-laravel-bagian-1/
+
+https://jurnalmms.web.id/laravel/integrasi-midtrans-dan-laravel-8-menggunakan-snap-bagian-2/
+
+
+https://www.youtube.com/watch?v=069oMpRX9zA
+
+----------------- login sanbox using account sulaslansetiawan2@gmail.com
+
+------link midtrans sanbox
+https://dashboard.sandbox.midtrans.com/settings/vtweb_configuration/history?q%5Bcreated_after%5D=12%2F06%2F2023&q%5Bcreated_before%5D=13%2F06%2F2023
+
+
+--------------------- link demo account payment
+https://docs.midtrans.com/docs/snap-interactive-demo
+
+
+============ raja ongkir
+------ using email sulaslansetiawan3@gmail.com
+
+https://rajaongkir.com/akun/panel
+
+username raja ongkir : sulaslansetiawan3
+
+
+--------tutorial raja ongkir
+https://santrikoding.com/laravel-rajaongkir-migration-seeder
+
+
+================references
+https://www.autofun.co.id/mobil/suzuki/xl7
+
+================= tables using Yajra Datatables
+https://codeanddeploy.com/blog/laravel/step-by-step-tutorial-implementing-yajra-datatables-in-laravel-10
