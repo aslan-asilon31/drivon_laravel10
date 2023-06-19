@@ -1,7 +1,5 @@
 # Aradan Laravel 10 Bootstrap
-![aradan_laravel10_bootstrap-add_logo](https://github.com/aslan-asilon31/aradan_laravel10_bootstrap/assets/116990574/7095d294-f7dd-4e37-b57f-d7b174a21f50)
-
-
+![landingpage1-add-logo](https://github.com/aslan-asilon31/drivon_laravel10/assets/116990574/05a12d58-18d1-4768-bcf6-0486e51393e7)
 
 ## Table of Contents 🔥
 
