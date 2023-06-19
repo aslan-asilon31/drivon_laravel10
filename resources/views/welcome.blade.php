@@ -130,20 +130,6 @@
                 </select>
             </div>
             <div class="">
-                <div class="date mb-3" id="date" data-target-input="nearest">
-                    <input type="date" class="form-control datetimepicker-input" style="width:160px;" placeholder="Pickup Date"
-                        data-target="#date" data-toggle="datetimepicker" />
-                </div>
-            </div>
-            <div class="" style="">
-                <div class="time " id="time" data-target-input="nearest" style="display: flex; width:270px;">
-                     from <input type="time" class="form-control  datetimepicker-input" style="width:270px;" placeholder="Pickup Time"
-                        data-target="#time" data-toggle="datetimepicker" value="00:00" /> 
-                     to <input type="time" class="form-control  datetimepicker-input" style="width:270px;" placeholder="Pickup Time"
-                        data-target="#time" data-toggle="datetimepicker" value="00:00" />
-                </div>
-            </div>
-            <div class="">
                 <button class="btn btn-primary btn-block mb-3" type="submit" style="height: 50px; width:100px;">Search</button>
             </div>
         </form>

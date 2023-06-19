@@ -4,8 +4,6 @@ https://www.cakrarentcar.com/
 https://sewa-motor-tegal.business.site/?gclid=CjwKCAjwhJukBhBPEiwAniIcNYsthiBmHwJj7dMHddSQOmMZRH4hQHRd9F1sgwzaB6C892bqB9UkIRoCgHMQAvD_BwE
 
 
-
-
 ============== laravel task scheduling
 
 https://santrikoding.com/tutorial-schedule-laravel-9
@@ -59,3 +57,14 @@ https://www.autofun.co.id/mobil/suzuki/xl7
 
 ================= tables using Yajra Datatables
 https://codeanddeploy.com/blog/laravel/step-by-step-tutorial-implementing-yajra-datatables-in-laravel-10
+
+===== when cannot push to github 
+after generate new token
+git remote set-url origin https://<token>@github.com/<username>/<repo>
+
+
+## 💠 Features
+- Laravel 10 bootstrap 5<br>
+- Roles and Permissions using Spatie<br>
+- admin page using AdminLTE jeroenoten<br>
+- Tables Using YajraDatatable<br>
